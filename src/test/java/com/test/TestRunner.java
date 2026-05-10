@@ -28,8 +28,7 @@ public class TestRunner {
                     System.out.println(data);
                 }
             }
-
-        } ca                    tch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
